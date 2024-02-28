@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "youtube"
+version = "0.1.0"
+description = ""
+authors = ["mohit sharma <mohitlakshya@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+manim = "^0.18.0"
+manim-voiceover = "^0.3.4.post1"
+elevenlabs = "^0.2.27"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
