@@ -6,9 +6,9 @@ authors = ["mohit sharma <mohitlakshya@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.11,<3.13"
+python = ">=3.11,<3.12"
 manim = "^0.18.0"
-manim-voiceover = "^0.3.4.post1"
+manim-voiceover = {extras = ["recorder"], version = "^0.3.6.post0"}
 elevenlabs = "^0.2.27"
 
 
