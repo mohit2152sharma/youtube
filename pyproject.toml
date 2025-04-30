@@ -7,9 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.12"
-manim = "^0.18.0"
-manim-voiceover = {extras = ["recorder"], version = "^0.3.6.post0"}
+manim = ">0.18.0"
+manim-voiceover = "^0.3.7"
 elevenlabs = "^0.2.27"
+google-api-python-client = "^2.168.0"
+ipykernel = "^6.29.5"
+pandas = "^2.2.3"
 
 
 [build-system]

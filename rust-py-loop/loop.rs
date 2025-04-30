@@ -4,6 +4,10 @@ use std::time::Instant;
 fn main() {
     let args: Vec<String> = env::args().collect();
 
+    let x = 0;
+    let mut y = 0;
+
+    x = y + 1;
     if args.len() < 2 {
         println!("Usage: {} <number>", args[0]);
     }

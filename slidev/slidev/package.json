@@ -1,0 +1,21 @@
+{
+  "name": "slidev",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.6.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "@slidev/theme-shibainu": "^0.25.0",
+    "slidev-addon-fancy-arrow": "^0.8.0",
+    "slidev-theme-dracula": "^0.2.0",
+    "slidev-theme-purplin": "^1.2.0",
+    "slidev-theme-vuetiful": "^0.3.1",
+    "vue": "^3.5.13"
+  }
+}
