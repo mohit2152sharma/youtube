@@ -16,6 +16,7 @@
     "slidev-theme-dracula": "^0.2.0",
     "slidev-theme-purplin": "^1.2.0",
     "slidev-theme-vuetiful": "^0.3.1",
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "vue-typer": "^1.2.0"
   }
 }
