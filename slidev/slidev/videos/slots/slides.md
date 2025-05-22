@@ -22,15 +22,15 @@ contextMenu: false
 
 <!-- <div class="absolute bottom-18 left-90 h-[250px] w-[200px] bg-[#15161D] position z-10"></div> -->
 <!-- <img src="/python.png" class="absolute bottom-0 left-0 " width="300" height="300" data-id="python" /> -->
-<img src="/linus.png" class="absolute bottom-0 -right-5" width="400" height="400"  data-id="google"/>
+<!-- <img src="/linus-techtips.png" class="absolute bottom-0 -right-5" width="400" height="400"  data-id="google"/> -->
 
 <div class="absolute top-20 left-0 h-[50vh] gap-y-20 w-[60wh]">
 <pre class=""><code data-id="if-else" class="text-7xl text-gray-500">class A:
-    <span class="text-red">__new__</span>
+    <span class="text-red">__slots__</span>
 </code></pre>
 <pre><code data-id="question-mark" class="absolute top-60 -right-30 text-9xl">???</code></pre>
 </div>
 
 ---
-src: videos/new/code.md
----
+
+## src: videos/slots/code.md

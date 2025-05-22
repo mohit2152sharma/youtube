@@ -13,10 +13,14 @@
     "@slidev/theme-seriph": "latest",
     "@slidev/theme-shibainu": "^0.25.0",
     "slidev-addon-fancy-arrow": "^0.8.0",
+    "slidev-addon-naive": "^0.9.0",
     "slidev-theme-dracula": "^0.2.0",
     "slidev-theme-purplin": "^1.2.0",
     "slidev-theme-vuetiful": "^0.3.1",
     "vue": "^3.5.13",
     "vue-typer": "^1.2.0"
+  },
+  "devDependencies": {
+    "naive-ui": "^2.41.0"
   }
 }
