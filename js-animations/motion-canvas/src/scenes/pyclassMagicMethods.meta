@@ -1,5 +1,118 @@
 {
   "version": 0,
-  "timeEvents": [],
+  "timeEvents": [
+    {
+      "name": "call",
+      "targetTime": 3.592679725797521
+    },
+    {
+      "name": "classes",
+      "targetTime": 4.778980578256991
+    },
+    {
+      "name": "what",
+      "targetTime": 6.103104588600553
+    },
+    {
+      "name": "how",
+      "targetTime": 7.103104588600553
+    },
+    {
+      "name": "when",
+      "targetTime": 8.567191239774289
+    },
+    {
+      "name": "movewhat",
+      "targetTime": 11.711016376759243
+    },
+    {
+      "name": "slide1-subtitle",
+      "targetTime": 13.65263007189311
+    },
+    {
+      "name": "method-call",
+      "targetTime": 15.300878092580232
+    },
+    {
+      "name": "instance-call",
+      "targetTime": 16.300878092580234
+    },
+    {
+      "name": "how-slide",
+      "targetTime": 19.04672787556714
+    },
+    {
+      "name": "show-how",
+      "targetTime": 21.343223916941383
+    },
+    {
+      "name": "show-call",
+      "targetTime": 23.27302437008185
+    },
+    {
+      "name": "when-slide",
+      "targetTime": 27.154571782798683
+    },
+    {
+      "name": "stateful",
+      "targetTime": 29.665603229048084
+    },
+    {
+      "name": "ex1",
+      "targetTime": 30.665603229048084
+    },
+    {
+      "name": "h1",
+      "targetTime": 34.1305686691418
+    },
+    {
+      "name": "h2",
+      "targetTime": 36.3773848812244
+    },
+    {
+      "name": "h3",
+      "targetTime": 39.47079069835396
+    },
+    {
+      "name": "h4",
+      "targetTime": 41.28791945566171
+    },
+    {
+      "name": "h5",
+      "targetTime": 43.814255276153204
+    },
+    {
+      "name": "h-reset",
+      "targetTime": 46.045286225729924
+    },
+    {
+      "name": "example2",
+      "targetTime": 47.66340081860885
+    },
+    {
+      "name": "example2-code",
+      "targetTime": 50.106860472354306
+    },
+    {
+      "name": "ex2-h1",
+      "targetTime": 53.54709200088687
+    },
+    {
+      "name": "ex2-h2",
+      "targetTime": 55.669726619579514
+    },
+    {
+      "name": "ex2-h3",
+      "targetTime": 59.73229851300175
+    },
+    {
+      "name": "ex2-h4",
+      "targetTime": 63.90816457287402
+    },
+    {
+      "name": "ex2-reset",
+      "targetTime": 67.17063065254862
+    }
+  ],
   "seed": 3990394770
 }

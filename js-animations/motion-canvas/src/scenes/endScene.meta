@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "thanks",
+      "targetTime": 0.59933289433678
+    },
+    {
+      "name": "like",
+      "targetTime": 2.9407805091713435
+    }
+  ],
+  "seed": 3228482162
+}

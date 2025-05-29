@@ -1,0 +1,13 @@
+{
+  "name": "@examples/deferred-lighting",
+  "private": true,
+  "description": "Source code for the Deferred Lighting video",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vite"
+  },
+  "dependencies": {
+    "@types/three": "^0.149.0",
+    "three": "^0.149.0"
+  }
+}

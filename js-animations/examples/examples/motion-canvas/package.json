@@ -1,0 +1,9 @@
+{
+  "name": "@examples/motion-canvas",
+  "private": true,
+  "description": "Source code for the Motion Canvas is now Open Source! video",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vite"
+  }
+}
