@@ -3,116 +3,116 @@
   "timeEvents": [
     {
       "name": "call",
-      "targetTime": 3.592679725797521
+      "targetTime": 0
     },
     {
       "name": "classes",
-      "targetTime": 4.778980578256991
+      "targetTime": 0
     },
     {
       "name": "what",
-      "targetTime": 6.103104588600553
+      "targetTime": 1
     },
     {
       "name": "how",
-      "targetTime": 7.103104588600553
+      "targetTime": 2
     },
     {
       "name": "when",
-      "targetTime": 8.567191239774289
+      "targetTime": 3
     },
     {
       "name": "movewhat",
-      "targetTime": 11.711016376759243
+      "targetTime": 4.699999999999999
     },
     {
       "name": "slide1-subtitle",
-      "targetTime": 13.65263007189311
+      "targetTime": 4.999999999999999
     },
     {
       "name": "method-call",
-      "targetTime": 15.300878092580232
+      "targetTime": 5.999999999999999
     },
     {
       "name": "instance-call",
-      "targetTime": 16.300878092580234
+      "targetTime": 6.999999999999999
     },
     {
       "name": "how-slide",
-      "targetTime": 19.04672787556714
+      "targetTime": 7.999999999999999
     },
     {
       "name": "show-how",
-      "targetTime": 21.343223916941383
+      "targetTime": 9
     },
     {
       "name": "show-call",
-      "targetTime": 23.27302437008185
+      "targetTime": 10
     },
     {
       "name": "when-slide",
-      "targetTime": 27.154571782798683
+      "targetTime": 11
     },
     {
       "name": "stateful",
-      "targetTime": 29.665603229048084
+      "targetTime": 12
     },
     {
       "name": "ex1",
-      "targetTime": 30.665603229048084
+      "targetTime": 13
     },
     {
       "name": "h1",
-      "targetTime": 34.1305686691418
+      "targetTime": 14
     },
     {
       "name": "h2",
-      "targetTime": 36.3773848812244
+      "targetTime": 14.4
     },
     {
       "name": "h3",
-      "targetTime": 39.47079069835396
+      "targetTime": 14.8
     },
     {
       "name": "h4",
-      "targetTime": 41.28791945566171
+      "targetTime": 15.200000000000001
     },
     {
       "name": "h5",
-      "targetTime": 43.814255276153204
+      "targetTime": 15.700000000000001
     },
     {
       "name": "h-reset",
-      "targetTime": 46.045286225729924
+      "targetTime": 16.200000000000003
     },
     {
       "name": "example2",
-      "targetTime": 47.66340081860885
+      "targetTime": 17.200000000000003
     },
     {
       "name": "example2-code",
-      "targetTime": 50.106860472354306
+      "targetTime": 18.200000000000003
     },
     {
       "name": "ex2-h1",
-      "targetTime": 53.54709200088687
+      "targetTime": 19.200000000000003
     },
     {
       "name": "ex2-h2",
-      "targetTime": 55.669726619579514
+      "targetTime": 19.6
     },
     {
       "name": "ex2-h3",
-      "targetTime": 59.73229851300175
+      "targetTime": 20
     },
     {
       "name": "ex2-h4",
-      "targetTime": 63.90816457287402
+      "targetTime": 20.4
     },
     {
       "name": "ex2-reset",
-      "targetTime": 67.17063065254862
+      "targetTime": 20.799999999999997
     }
   ],
-  "seed": 3990394770
+  "seed": 4057450658
 }

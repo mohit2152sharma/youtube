@@ -1,0 +1,302 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "cache-intro",
+      "targetTime": 0.5661192211155339
+    },
+    {
+      "name": "cache-code",
+      "targetTime": 1.566119221115534
+    },
+    {
+      "name": "cache-decorator",
+      "targetTime": 2.566119221115534
+    },
+    {
+      "name": "cache-function",
+      "targetTime": 4.50038158988304
+    },
+    {
+      "name": "cache-decorator-again",
+      "targetTime": 8.335541302521627
+    },
+    {
+      "name": "cache-function-result",
+      "targetTime": 9.926011767315991
+    },
+    {
+      "name": "cache-first-call",
+      "targetTime": 13.138091864998163
+    },
+    {
+      "name": "cache-expensive-lines",
+      "targetTime": 15.816958611778363
+    },
+    {
+      "name": "cache-subsequent",
+      "targetTime": 20.14419963907006
+    },
+    {
+      "name": "cache-subsequent-cache",
+      "targetTime": 22.51564818036091
+    },
+    {
+      "name": "cache-reset",
+      "targetTime": 25.06876912582275
+    },
+    {
+      "name": "cached-property-intro",
+      "targetTime": 27.607641255271183
+    },
+    {
+      "name": "cached-property-code",
+      "targetTime": 27.618327867281245
+    },
+    {
+      "name": "cached-property-class",
+      "targetTime": 31.854188488757355
+    },
+    {
+      "name": "cached-property-computation",
+      "targetTime": 34.45059610284436
+    },
+    {
+      "name": "cached-property-decorator",
+      "targetTime": 37.28893486626547
+    },
+    {
+      "name": "classname",
+      "targetTime": 44.44947469177593
+    },
+    {
+      "name": "propname",
+      "targetTime": 46.894886085916205
+    },
+    {
+      "name": "cached-property-usage",
+      "targetTime": 48.64565802364926
+    },
+    {
+      "name": "cached-property-first",
+      "targetTime": 51.10510253812099
+    },
+    {
+      "name": "cached-property-second",
+      "targetTime": 53.71213116111139
+    },
+    {
+      "name": "cached-property-cache",
+      "targetTime": 56.177256511980055
+    },
+    {
+      "name": "cached-property-reset",
+      "targetTime": 58.064887199002676
+    },
+    {
+      "name": "lru-cache-intro",
+      "targetTime": 61.3537918987181
+    },
+    {
+      "name": "lur-cache-code",
+      "targetTime": 61.35401272958067
+    },
+    {
+      "name": "lru-cache-decorator",
+      "targetTime": 63.054571052030866
+    },
+    {
+      "name": "lru-cache-maxsize",
+      "targetTime": 64.72831482651792
+    },
+    {
+      "name": "lru-cache-maxsize3",
+      "targetTime": 69.70661139967956
+    },
+    {
+      "name": "lru-cache-function",
+      "targetTime": 72.50326146497837
+    },
+    {
+      "name": "lru-cache-calls",
+      "targetTime": 75.77046273785542
+    },
+    {
+      "name": "lru-cache-stats",
+      "targetTime": 80.69528758288317
+    },
+    {
+      "name": "lru-cache-clear",
+      "targetTime": 82.95722036684305
+    },
+    {
+      "name": "lru-cache-reset",
+      "targetTime": 85.26193053331004
+    },
+    {
+      "name": "partial-intro",
+      "targetTime": 86.97119009759466
+    },
+    {
+      "name": "partial-original",
+      "targetTime": 92.99807332743106
+    },
+    {
+      "name": "partial-args",
+      "targetTime": 96.57263801535925
+    },
+    {
+      "name": "partial-create",
+      "targetTime": 99.1305797239517
+    },
+    {
+      "name": "partial-preset",
+      "targetTime": 101.54328957835331
+    },
+    {
+      "name": "partial-usage",
+      "targetTime": 104.23326024530104
+    },
+    {
+      "name": "partial-triple",
+      "targetTime": 109.27334637097296
+    },
+    {
+      "name": "partial-triple-args",
+      "targetTime": 112.21417205879574
+    },
+    {
+      "name": "partial-practical",
+      "targetTime": 115.19460643412512
+    },
+    {
+      "name": "partial-reset",
+      "targetTime": 118.00340316359261
+    },
+    {
+      "name": "singledispatch-intro",
+      "targetTime": 120.28408405963894
+    },
+    {
+      "name": "singledispatch-base",
+      "targetTime": 127.88140004541863
+    },
+    {
+      "name": "singledispatch-register",
+      "targetTime": 133.12496489341942
+    },
+    {
+      "name": "singledispatch-types",
+      "targetTime": 138.10032665385353
+    },
+    {
+      "name": "singledispatch-usage",
+      "targetTime": 143.10539104493924
+    },
+    {
+      "name": "singledispatch-reset",
+      "targetTime": 152.19696252405856
+    },
+    {
+      "name": "singledispatchmethod-intro",
+      "targetTime": 157.49410106917915
+    },
+    {
+      "name": "singledispatchmethod-base",
+      "targetTime": 163.07871099250173
+    },
+    {
+      "name": "singledispatchmethod-register",
+      "targetTime": 166.8107650421692
+    },
+    {
+      "name": "singledispatchmethod-types",
+      "targetTime": 168.99271750337286
+    },
+    {
+      "name": "singledispatchmethod-usage",
+      "targetTime": 175.3233531073447
+    },
+    {
+      "name": "singledispatchmethod-reset",
+      "targetTime": 179.32809121204804
+    },
+    {
+      "name": "update-wrapper-intro",
+      "targetTime": 180.66544257383316
+    },
+    {
+      "name": "update-wrapper-original",
+      "targetTime": 188.29650963173412
+    },
+    {
+      "name": "original-docstring",
+      "targetTime": 191.36281829348016
+    },
+    {
+      "name": "update-wrapper-manual",
+      "targetTime": 192.36281829348016
+    },
+    {
+      "name": "manual-call-original",
+      "targetTime": 194.24513533585838
+    },
+    {
+      "name": "update-wrapper-without",
+      "targetTime": 196.63997477785335
+    },
+    {
+      "name": "update-wrapper-wo-output",
+      "targetTime": 198.65291844028403
+    },
+    {
+      "name": "update-wrapper-apply",
+      "targetTime": 200.92354769274735
+    },
+    {
+      "name": "update-wrapper-after",
+      "targetTime": 203.8171313647063
+    },
+    {
+      "name": "update-wrapper-reset",
+      "targetTime": 209.99358594575338
+    },
+    {
+      "name": "wraps-intro",
+      "targetTime": 213.34696930829244
+    },
+    {
+      "name": "wraps-decorator",
+      "targetTime": 221.21944086420808
+    },
+    {
+      "name": "wraps-decorator-funcs",
+      "targetTime": 223.49458138404577
+    },
+    {
+      "name": "wraps-preserve",
+      "targetTime": 225.58771751288833
+    },
+    {
+      "name": "wraps-preserve-name",
+      "targetTime": 227.98049501714968
+    },
+    {
+      "name": "wraps-docstring",
+      "targetTime": 229.64636474030252
+    },
+    {
+      "name": "wraps-wrapper",
+      "targetTime": 232.43311516409597
+    },
+    {
+      "name": "wraps-reset",
+      "targetTime": 235.6082895930619
+    },
+    {
+      "name": "end",
+      "targetTime": 246.05672064516153
+    }
+  ],
+  "seed": 2290906203
+}

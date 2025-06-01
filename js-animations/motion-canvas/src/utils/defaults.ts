@@ -19,22 +19,46 @@ const DraculaColors = {
 };
 
 const DraculaHighlightStyle = HighlightStyle.define([
+  // Keywords and operators first (highest precedence)
   { tag: tags.keyword, color: DraculaColors.pink },
+  { tag: tags.operator, color: DraculaColors.pink },
+  { tag: tags.processingInstruction, color: DraculaColors.pink },
+
+  // Functions and definitions
   { tag: tags.function(tags.variableName), color: DraculaColors.green },
   { tag: tags.function(tags.definition(tags.variableName)), color: DraculaColors.green },
-  { tag: tags.variableName, color: DraculaColors.foreground },
-  { tag: tags.string, color: DraculaColors.yellow },
-  { tag: tags.comment, color: DraculaColors.comment },
-  { tag: tags.number, color: DraculaColors.purple },
-  { tag: tags.operator, color: DraculaColors.pink },
-  { tag: tags.punctuation, color: DraculaColors.foreground },
-  { tag: tags.bracket, color: DraculaColors.foreground },
   { tag: tags.definition(tags.variableName), color: DraculaColors.cyan },
   { tag: tags.className, color: DraculaColors.cyan },
   { tag: tags.typeName, color: DraculaColors.cyan },
+
+  // Variables and names
+  { tag: tags.variableName, color: DraculaColors.foreground },
+  { tag: tags.name, color: DraculaColors.foreground },
   { tag: tags.propertyName, color: DraculaColors.green },
-  { tag: tags.literal, color: DraculaColors.purple },
+  { tag: tags.attributeName, color: DraculaColors.green },
+
+  // Literals
+  { tag: tags.string, color: DraculaColors.yellow },
   { tag: tags.special(tags.string), color: DraculaColors.yellow },
+  { tag: tags.number, color: DraculaColors.purple },
+  { tag: tags.literal, color: DraculaColors.purple },
+
+  // Punctuation and brackets
+  { tag: tags.punctuation, color: DraculaColors.foreground },
+  { tag: tags.bracket, color: DraculaColors.foreground },
+  { tag: tags.special(tags.punctuation), color: DraculaColors.cyan },
+
+  // Decorators and meta (high precedence)
+  { tag: tags.meta, color: DraculaColors.cyan },
+  { tag: tags.annotation, color: DraculaColors.cyan },
+  { tag: tags.special(tags.variableName), color: DraculaColors.cyan },
+  { tag: tags.modifier, color: DraculaColors.orange },
+
+  // Comments last (lowest precedence)
+  { tag: tags.lineComment, color: DraculaColors.comment },
+  { tag: tags.blockComment, color: DraculaColors.comment },
+  { tag: tags.docComment, color: DraculaColors.comment },
+  { tag: tags.comment, color: DraculaColors.comment },
 ]);
 
 export const PythonHighlighter = new LezerHighlighter(parser, DraculaHighlightStyle);

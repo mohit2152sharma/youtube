@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "intro-start",
+      "targetTime": 0
+    },
+    {
+      "name": "title-appear",
+      "targetTime": 2
+    },
+    {
+      "name": "subtitle-appear",
+      "targetTime": 3
+    },
+    {
+      "name": "functions-start",
+      "targetTime": 4.608478543573372
+    },
+    {
+      "name": "intro-end",
+      "targetTime": 10.516019323437181
+    }
+  ],
+  "seed": 998945642
+}

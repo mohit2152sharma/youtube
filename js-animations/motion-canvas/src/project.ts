@@ -1,8 +1,11 @@
 import {makeProject} from '@motion-canvas/core';
-import pyclassMagicMethods from './scenes/pyclassMagicMethods?scene'
-import endScene from './scenes/endScene?scene';
+import funcTools from './functools/funcTools?scene';
+import endScene from './common-scenes/endScene?scene';
+import introScene from './functools/intro?scene';
+// import pyclassMagicMethods from './python-call/pyclassMagicMethods?scene';
 
 export default makeProject({
-  scenes: [pyclassMagicMethods, endScene],
-  audio: '../audio/original-enhanced-v2.wav'
+  scenes: [introScene, funcTools, endScene],
+  // scenes: [pyclassMagicMethods]
+  audio: '../audio/functools.wav'
 });
