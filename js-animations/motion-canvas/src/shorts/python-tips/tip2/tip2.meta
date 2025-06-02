@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 1
+    },
+    {
+      "name": "dtformat",
+      "targetTime": 4.154405949493553
+    },
+    {
+      "name": "normal",
+      "targetTime": 7.063373246513157
+    },
+    {
+      "name": "highstrf",
+      "targetTime": 9.457222384019534
+    },
+    {
+      "name": "better",
+      "targetTime": 13.32149972231821
+    },
+    {
+      "name": "highfstr",
+      "targetTime": 16.74558517885104
+    },
+    {
+      "name": "reset",
+      "targetTime": 25.039878688963473
+    },
+    {
+      "name": "end",
+      "targetTime": 26.039878688963473
+    }
+  ],
+  "seed": 4157135733
+}

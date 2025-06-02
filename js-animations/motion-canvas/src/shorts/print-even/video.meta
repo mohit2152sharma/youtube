@@ -1,0 +1,50 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 1
+    },
+    {
+      "name": "highlight-func",
+      "targetTime": 8.635087059255184
+    },
+    {
+      "name": "pro",
+      "targetTime": 12.10310197307273
+    },
+    {
+      "name": "pro-sol",
+      "targetTime": 13.10310197307273
+    },
+    {
+      "name": "tuple",
+      "targetTime": 15.03885562309977
+    },
+    {
+      "name": "even",
+      "targetTime": 16.674941941093984
+    },
+    {
+      "name": "odd",
+      "targetTime": 18.489132428126577
+    },
+    {
+      "name": "modulo",
+      "targetTime": 21.37194792938945
+    },
+    {
+      "name": "fullsol",
+      "targetTime": 22.37194792938945
+    },
+    {
+      "name": "reset",
+      "targetTime": 39.75187738031599
+    },
+    {
+      "name": "end",
+      "targetTime": 41.5491055655354
+    }
+  ],
+  "seed": 2372085526
+}

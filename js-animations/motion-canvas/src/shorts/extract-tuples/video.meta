@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 1
+    },
+    {
+      "name": "highlight-unique",
+      "targetTime": 3.2906296065981087
+    },
+    {
+      "name": "variables",
+      "targetTime": 7.282543694620998
+    },
+    {
+      "name": "index",
+      "targetTime": 10.112891136705588
+    },
+    {
+      "name": "unpacking",
+      "targetTime": 13.858412299832471
+    },
+    {
+      "name": "unpacktuple",
+      "targetTime": 15.89091598511096
+    },
+    {
+      "name": "workswithother",
+      "targetTime": 22.12383239004511
+    },
+    {
+      "name": "example",
+      "targetTime": 25.851754058536564
+    },
+    {
+      "name": "reset",
+      "targetTime": 26.851754058536564
+    },
+    {
+      "name": "end",
+      "targetTime": 27.851754058536564
+    }
+  ],
+  "seed": 2932465245
+}

@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 1
+    },
+    {
+      "name": "print",
+      "targetTime": 4.032999268041529
+    },
+    {
+      "name": "showprint",
+      "targetTime": 5.032999268041529
+    },
+    {
+      "name": "better",
+      "targetTime": 10.876587328047702
+    },
+    {
+      "name": "showbetter",
+      "targetTime": 11.876587328047702
+    },
+    {
+      "name": "showprint2",
+      "targetTime": 13.87315559669551
+    },
+    {
+      "name": "reset",
+      "targetTime": 16.587253018769744
+    },
+    {
+      "name": "end",
+      "targetTime": 19.52382234528878
+    }
+  ],
+  "seed": 2407979346
+}

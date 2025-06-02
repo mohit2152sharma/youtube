@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 1.7983363087800974
+    },
+    {
+      "name": "same",
+      "targetTime": 4.987322961886817
+    },
+    {
+      "name": "walrus",
+      "targetTime": 8.227815183301932
+    },
+    {
+      "name": "walrusexp",
+      "targetTime": 9.807252826771363
+    },
+    {
+      "name": "highlight",
+      "targetTime": 11.888869761247623
+    },
+    {
+      "name": "calc",
+      "targetTime": 13.68720607002772
+    },
+    {
+      "name": "reuse",
+      "targetTime": 16.32250786381921
+    },
+    {
+      "name": "reset",
+      "targetTime": 17.760305194440555
+    },
+    {
+      "name": "end",
+      "targetTime": 19.236731701293195
+    }
+  ],
+  "seed": 523668043
+}

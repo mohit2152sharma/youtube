@@ -4,7 +4,7 @@ import { parser } from '@lezer/python';
 import { Code, LezerHighlighter, withDefaults } from '@motion-canvas/2d';
 
 // Dracula theme colors for syntax highlighting
-const DraculaColors = {
+export const DraculaColors = {
   background: '#282a36',
   currentLine: '#44475a',
   foreground: '#f8f8f2',
