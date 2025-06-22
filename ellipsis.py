@@ -1,6 +1,5 @@
-from manim import *
-
 from code_transform import CodeTransform
+from manim import *
 
 config.background_color = "#222222"
 

@@ -68,10 +68,10 @@ export default makeScene2D(function* (view) {
     view.add(
         <Img
             ref={linusImg}
-            src="/linus.png"
-            width={400}
-            height={400}
-            x={view.width() / 2}
+            src="linus-laughing.png"
+            width={1920/2.5}
+            height={1080/2.5}
+            x={view.width() / 2 + 600}
             y={view.height() / 2}
             offset={1}
             scale={5}
