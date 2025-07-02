@@ -26,3 +26,9 @@ archive
 
 .env
 *.m4a
+*.psd
+*.aep
+*.prproj
+*.prin
+*.cfa
+*.pek
